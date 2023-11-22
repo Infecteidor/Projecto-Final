@@ -1,0 +1,6 @@
+﻿  ProyectoFinal main.cpp
+C:\Users\MAQUICO\source\repos\ProyectoGraficas2024-1\Project1\Projecto Final\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\MAQUICO\source\repos\ProyectoGraficas2024-1\Project1\Projecto Final\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\MAQUICO\source\repos\ProyectoGraficas2024-1\Project1\Projecto Final\ProyectoFinal main.cpp(515,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\MAQUICO\source\repos\ProyectoGraficas2024-1\Project1\Projecto Final\ProyectoFinal main.cpp(517,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Projecto Final.vcxproj -> C:\Users\MAQUICO\source\repos\ProyectoGraficas2024-1\Project1\Debug\Projecto Final.exe
